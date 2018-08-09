@@ -16,11 +16,12 @@ import { liteCore } from 'litecore-lib'
  * Generating random sender and receiver address
  */
 
-//Generating privateKeys
- let privateKeyOfSender = new liteCore.PrivateKey()
- let privateKeyOfReceiver = new liteCore.PrivateKey()
+// Generating privateKeys
+let privateKeyOfSender = new liteCore.PrivateKey()
+let privateKeyOfReceiver = new liteCore.PrivateKey()
 
-//Generating public address
+// Generating public address
 let addressOfSender = privateKeyOfSender.toAddress()
 let addressOfReceiver = privateKeyOfReceiver.toAddress()
+
 
