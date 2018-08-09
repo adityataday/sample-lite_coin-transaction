@@ -1,0 +1,14 @@
+{
+  "name": "sample.litecoin.transaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "litecoin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Taday",
+  "license": "ISC",
+  "dependencies": {
+    "litecore-lib": "^0.13.22"
+  }
+}
