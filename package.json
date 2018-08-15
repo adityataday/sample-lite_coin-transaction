@@ -9,6 +9,7 @@
   "author": "Aditya Taday",
   "license": "ISC",
   "dependencies": {
+    "bitcore-explorers": "^1.0.1",
     "litecore-lib": "^0.13.22"
   }
 }
