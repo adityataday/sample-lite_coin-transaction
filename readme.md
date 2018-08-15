@@ -6,8 +6,8 @@ For the purpose of this tutorial, I all the public and private keys are visible 
 
 ## Dependencies
 
-..* litecore-lib
-..* bitcore-explorers
+* litecore-lib
+* bitcore-explorers
 
 Adding testnet litecoin faucet: http://testnet.litecointools.com/ 
 
